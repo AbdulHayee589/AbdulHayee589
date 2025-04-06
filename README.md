@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://varyance.io" target="_blank">
-    <img src="https://varyance.io/logo.png" alt="Varyance.io" style="height=30px;width=30px">
+     <img src="https://img.shields.io/badge/-Varyance.io-000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Varyance.io">
   </a>
 </p>
 
