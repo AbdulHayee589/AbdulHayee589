@@ -7,11 +7,11 @@
   <a href="https://www.linkedin.com/in/shah-abdul-hayee/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:your@email.com" target="_blank">
+  <a href="mailto:ahayee589@email.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://varyance.io" target="_blank">
-    <img src="https://img.shields.io/badge/-Varyance.io-000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Varyance.io">
+    <img src="https://varyance.io/logo.png" alt="Varyance.io" style="height=30px;width=30px">
   </a>
 </p>
 
